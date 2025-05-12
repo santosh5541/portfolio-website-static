@@ -155,7 +155,7 @@ const Navbar = () => {
         </MobileIcon>
 
         <NavItems>
-          {["About", "Skills", "Experience", "Projects", "Education", "Contact"].map((sec) => (
+          {["About", "Skills", "Experience", "Projects", "Education","Blog", "Contact"].map((sec) => (
             <li key={sec}>
               <NavLink smooth to={`#${sec}`} onClick={closeMenu}>
                 {sec}
@@ -166,7 +166,7 @@ const Navbar = () => {
 
         {isOpen && (
           <MobileMenu isOpen={isOpen}>
-            {["About", "Skills", "Experience", "Projects", "Education", "Contact"].map((sec) => (
+            {["About", "Skills", "Experience", "Projects", "Education","Blog","Contact"].map((sec) => (
               <NavLink
                 key={sec}
                 smooth
