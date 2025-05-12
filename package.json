@@ -1,7 +1,7 @@
 {
   "name": "portfolio-website-static",
   "version": "0.1.1",
-  "homepage": "https://santoshluitel.github.io/portfolio-website-static",
+  "homepage": "https://santosh5541.github.io/portfolio-website-static",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
