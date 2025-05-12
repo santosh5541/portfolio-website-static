@@ -21,9 +21,9 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/15UBLWC2fskq0ZIC1wRYuFW92udhTlCOt/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/santosh-luitel-b31b62201/",
-  twitter: "https://twitter.com/santosh_luitel",
-  insta: "https://www.instagram.com/santoshluitel/",
-  facebook: "https://www.facebook.com/santosh.luitel",
+  twitter: "https://x.com/SantoshLui77062",
+  insta: "https://www.instagram.com/santoshluitel18/",
+  facebook: "https://www.facebook.com/santosh.luitel.92/",
 };
 
 export const skills = [
