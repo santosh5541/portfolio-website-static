@@ -122,10 +122,10 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_tox7kqs",
-        "template_nv7k7mj",
+        "service_gu9disl",
+        "template_7lfikt9",
         form.current,
-        "SybVGsYS52j2TfLbi"
+        "ThuMsR5O_vwmL4J15"
       )
       .then(
         () => alert("Message sent!"),
